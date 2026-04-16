@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "atualizado_em": "2026-04-16T14:48:00.792863",
+  "atualizado_em": "2026-04-16T14:54:26.393255",
   "chaves": {
     "ZEUS-ABCD-1234-EFGH-5678": {
       "plano": "PRO",
@@ -14,10 +14,6 @@
       "usada": false,
       "usuario": null
     },
-    {
-    "versao": "1.0",
-  "atualizado_em": "2026-04-16T14:54:26.393255",
-  "chaves": {
     "ZEUS-C1B5-30D7-27BA-6573": {
       "plano": "BASIC",
       "criada_em": "2026-04-16T14:54:26.393281",
@@ -26,4 +22,3 @@
     }
   }
 }
-    
