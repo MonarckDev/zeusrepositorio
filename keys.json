@@ -1,13 +1,13 @@
 {
   "versao": "1.0",
   "chaves": {
-    "ZEUS-1234-5678-ABCD-TEST": {
+    "ZEUS-TESTE-1234-ABCD-0001": {
       "plano": "PRO",
       "usada": false,
       "usuario": null,
       "hwid": null
     },
-    "ZEUS-AAAA-BBBB-CCCC-DDDD": {
+    "ZEUS-TESTE-1234-ABCD-0002": {
       "plano": "LIFETIME",
       "usada": false,
       "usuario": null,
