@@ -1,6 +1,17 @@
 {
-  "keys": [
-    "ZEUS-TESTE-1234-ABCD-0001",
-    "ZEUS-TESTE-1234-ABCD-0002"
-  ]
+  "versao": "1.0",
+  "chaves": {
+    "ZEUS-ABCD-1234-EFGH-5678": {
+      "plano": "PRO",
+      "usada": false,
+      "usuario": null,
+      "hwid": null
+    },
+    "ZEUS-9XK2-A8F3-LP0Q-7MNB": {
+      "plano": "LIFETIME",
+      "usada": false,
+      "usuario": null,
+      "hwid": null
+    }
+  }
 }
