@@ -1,17 +1,12 @@
 {
   "versao": "1.0",
+  "atualizado_em": "2025-01-01T00:00:00",
   "chaves": {
     "ZEUS-ABCD-1234-EFGH-5678": {
       "plano": "PRO",
+      "criada_em": "2025-01-01T00:00:00",
       "usada": false,
-      "usuario": null,
-      "hwid": null
-    },
-    "ZEUS-9XK2-A8F3-LP0Q-7MNB": {
-      "plano": "LIFETIME",
-      "usada": false,
-      "usuario": null,
-      "hwid": null
+      "usuario": null
     }
   }
 }
