@@ -1,6 +1,17 @@
 {
-  "keys": [
-    "MONARCK123",
-    "VIP999"
-  ]
+  "versao": "1.0",
+  "chaves": {
+    "ZEUS-1234-5678-ABCD-TEST": {
+      "plano": "PRO",
+      "usada": false,
+      "usuario": null,
+      "hwid": null
+    },
+    "ZEUS-AAAA-BBBB-CCCC-DDDD": {
+      "plano": "LIFETIME",
+      "usada": false,
+      "usuario": null,
+      "hwid": null
+    }
+  }
 }
